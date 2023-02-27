@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mi Cronometro</string>
+    <string name="iniciar">Inicar</string>
+    <string name="detener">Detener</string>
+    <string name="lap">Lap</string>
+
+</resources>
